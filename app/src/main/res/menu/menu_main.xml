@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/view_log"
+        android:title="檢視Log檔"
+        android:showAsAction="always"
+        android:onClick="clickMenuItem"
+        />
+
+    <item
+        android:id="@+id/delete_log"
+        android:title="清除Log檔"
+        android:showAsAction="always"
+        android:onClick="clickMenuItem"
+        />
+
+</menu>

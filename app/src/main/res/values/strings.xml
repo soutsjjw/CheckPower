@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">電力監控</string>
+    <string name="PhoneNumber">電話號碼</string>
+    <string name="CheckWifi">檢查Wifi</string>
+    <string name="CheckCharging">檢查是否充電</string>
+    <string name="Start">啟動</string>
+    <string name="Stop">停止</string>
+    <string name="OK">是</string>
+    <string name="No">否</string>
+    <string name="IsExit">離開電力監控？</string>
+    <string name="Ask">詢問</string>
+    <string name="IsStartService">是否開始檢查？</string>
+    <string name="IsStopService">是否停止檢查？</string>
+    <string name="startServiceNofity">執行電力監控服務中</string>
+    <string name="stopServiceNofity">停止電力監控服務</string>
+    <string name="empty">無符合資料</string>
+</resources>
